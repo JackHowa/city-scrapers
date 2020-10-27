@@ -16,7 +16,7 @@ cryptography==2.0
 cssselect==1.0.1
 decorator==4.1.2
 dj-database-url==0.3.0
-Django==1.11.5
+Django==1.11.29
 docutils==0.14
 flake8==3.4.1
 freezegun==0.3.9
